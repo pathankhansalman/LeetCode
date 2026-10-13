@@ -10,12 +10,12 @@ Solutions are organized into broad algorithm and data structure categories, alon
 
 | Category | Description | Problems |
 | :--- | :--- | :---: |
-| [`arrays/`](./arrays) | Arrays, 2D matrices, prefix sums, and simulation | 26 |
-| [`strings/`](./strings) | String parsing, anagrams, encodings, and manipulation | 24 |
+| [`arrays/`](./arrays) | Arrays, 2D matrices, prefix sums, and simulation | 27 |
+| [`strings/`](./strings) | String parsing, anagrams, encodings, and manipulation | 25 |
 | [`two-pointers/`](./two-pointers) | Two-pointer convergence, partitioning, and palindromes | 24 |
 | [`sliding-window/`](./sliding-window) | Fixed and variable sliding window patterns | 6 |
 | [`linked-lists/`](./linked-lists) | Singly/doubly linked lists, cycle detection, reordering | 18 |
-| [`trees/`](./trees) | Binary trees, BSTs, traversals, and tree properties | 37 |
+| [`trees/`](./trees) | Binary trees, BSTs, traversals, and tree properties | 38 |
 | [`graphs/`](./graphs) | BFS/DFS, topological sort, cycle detection, connected components | 10 |
 | [`dynamic-programming/`](./dynamic-programming) | 1D & 2D dynamic programming, memoization, optimization | 26 |
 | [`backtracking/`](./backtracking) | Permutations, combinations, subsets, constraint satisfaction | 16 |
@@ -27,7 +27,7 @@ Solutions are organized into broad algorithm and data structure categories, alon
 | [`math/`](./math) | Math, geometry, number theory, and combinatorics | 17 |
 | [`design/`](./design) | Data structure design (LRU cache, hash map, hash set) | 3 |
 | [`database/`](./database) | SQL queries and Pandas solutions | 13 |
-| **Total** | | **259** |
+| **Total** | | **262** |
 
 ---
 
