@@ -11,7 +11,7 @@ Solutions are organized into broad algorithm and data structure categories, alon
 | Category | Description | Problems |
 | :--- | :--- | :---: |
 | [`arrays/`](./arrays) | Arrays, 2D matrices, prefix sums, and simulation | 28 |
-| [`strings/`](./strings) | String parsing, anagrams, encodings, and manipulation | 25 |
+| [`strings/`](./strings) | String parsing, anagrams, encodings, and manipulation | 26 |
 | [`two-pointers/`](./two-pointers) | Two-pointer convergence, partitioning, and palindromes | 24 |
 | [`sliding-window/`](./sliding-window) | Fixed and variable sliding window patterns | 6 |
 | [`linked-lists/`](./linked-lists) | Singly/doubly linked lists, cycle detection, reordering | 18 |
@@ -22,12 +22,12 @@ Solutions are organized into broad algorithm and data structure categories, alon
 | [`binary-search/`](./binary-search) | Binary search on sorted arrays, rotated arrays, and answer spaces | 12 |
 | [`stack-and-queue/`](./stack-and-queue) | Monotonic stack, LIFO/FIFO patterns, parentheses | 9 |
 | [`heap/`](./heap) | Priority queues, k-th elements, heap simulations | 3 |
-| [`greedy/`](./greedy) | Greedy choice algorithms, interval scheduling, jump game | 8 |
-| [`bit-manipulation/`](./bit-manipulation) | Bitwise operations, masks, parity, and set bits | 7 |
+| [`greedy/`](./greedy) | Greedy choice algorithms, interval scheduling, jump game | 9 |
+| [`bit-manipulation/`](./bit-manipulation) | Bitwise operations, masks, parity, and set bits | 8 |
 | [`math/`](./math) | Math, geometry, number theory, and combinatorics | 17 |
 | [`design/`](./design) | Data structure design (LRU cache, hash map, hash set) | 3 |
 | [`database/`](./database) | SQL queries and Pandas solutions | 13 |
-| **Total** | | **265** |
+| **Total** | | **268** |
 
 ---
 
